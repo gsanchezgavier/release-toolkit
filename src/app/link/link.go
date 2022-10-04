@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/newrelic/release-toolkit/src/app/common"
-	"github.com/newrelic/release-toolkit/src/changelog"
-	"github.com/newrelic/release-toolkit/src/changelog/linker"
-	"github.com/newrelic/release-toolkit/src/changelog/linker/mapper"
+	"github.com/gsanchezgavier/release-toolkit/src/app/common"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog/linker"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog/linker/mapper"
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v3"
 )

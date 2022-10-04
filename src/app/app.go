@@ -2,14 +2,14 @@
 package app
 
 import (
-	"github.com/newrelic/release-toolkit/src/app/common"
-	"github.com/newrelic/release-toolkit/src/app/generate"
-	"github.com/newrelic/release-toolkit/src/app/isheld"
-	"github.com/newrelic/release-toolkit/src/app/link"
-	"github.com/newrelic/release-toolkit/src/app/nextversion"
-	"github.com/newrelic/release-toolkit/src/app/render"
-	"github.com/newrelic/release-toolkit/src/app/update"
-	"github.com/newrelic/release-toolkit/src/app/validate"
+	"github.com/gsanchezgavier/release-toolkit/src/app/common"
+	"github.com/gsanchezgavier/release-toolkit/src/app/generate"
+	"github.com/gsanchezgavier/release-toolkit/src/app/isheld"
+	"github.com/gsanchezgavier/release-toolkit/src/app/link"
+	"github.com/gsanchezgavier/release-toolkit/src/app/nextversion"
+	"github.com/gsanchezgavier/release-toolkit/src/app/render"
+	"github.com/gsanchezgavier/release-toolkit/src/app/update"
+	"github.com/gsanchezgavier/release-toolkit/src/app/validate"
 	"github.com/urfave/cli/v2"
 )
 

@@ -1,4 +1,4 @@
-module github.com/newrelic/release-toolkit
+module github.com/gsanchezgavier/release-toolkit
 
 go 1.19
 

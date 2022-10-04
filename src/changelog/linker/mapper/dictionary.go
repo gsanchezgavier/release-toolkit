@@ -7,7 +7,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/newrelic/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
 	log "github.com/sirupsen/logrus"
 	"gopkg.in/yaml.v3"
 )

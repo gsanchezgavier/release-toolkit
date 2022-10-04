@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/newrelic/release-toolkit/src/version"
+	"github.com/gsanchezgavier/release-toolkit/src/version"
 )
 
 func TestStaticSource(t *testing.T) {

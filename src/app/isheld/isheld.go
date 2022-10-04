@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/newrelic/release-toolkit/src/app/common"
-	"github.com/newrelic/release-toolkit/src/app/gha"
-	"github.com/newrelic/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/app/common"
+	"github.com/gsanchezgavier/release-toolkit/src/app/gha"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v3"
 )

@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/Masterminds/semver"
-	"github.com/newrelic/release-toolkit/src/bump"
+	"github.com/gsanchezgavier/release-toolkit/src/bump"
 )
 
 func TestBump(t *testing.T) {

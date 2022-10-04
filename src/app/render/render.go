@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/Masterminds/semver"
-	"github.com/newrelic/release-toolkit/src/app/common"
-	"github.com/newrelic/release-toolkit/src/changelog"
-	"github.com/newrelic/release-toolkit/src/changelog/renderer"
+	"github.com/gsanchezgavier/release-toolkit/src/app/common"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog/renderer"
 	"github.com/urfave/cli/v2"
 	"gopkg.in/yaml.v3"
 )

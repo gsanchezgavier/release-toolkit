@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/Masterminds/semver"
-	"github.com/newrelic/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
 )
 
 func TestGithub_Map(t *testing.T) {

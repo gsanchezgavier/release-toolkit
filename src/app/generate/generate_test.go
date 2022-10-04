@@ -10,8 +10,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/newrelic/release-toolkit/src/app"
-	"github.com/newrelic/release-toolkit/src/git"
+	"github.com/gsanchezgavier/release-toolkit/src/app"
+	"github.com/gsanchezgavier/release-toolkit/src/git"
 )
 
 const mdChangelog = `# Changelog

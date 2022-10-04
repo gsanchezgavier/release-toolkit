@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	cl "github.com/newrelic/release-toolkit/src/changelog"
-	"github.com/newrelic/release-toolkit/src/changelog/sources/markdown"
+	cl "github.com/gsanchezgavier/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog/sources/markdown"
 )
 
 //nolint:funlen

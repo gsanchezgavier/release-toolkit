@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/Masterminds/semver"
-	"github.com/newrelic/release-toolkit/src/changelog"
-	"github.com/newrelic/release-toolkit/src/changelog/sources/renovate"
-	"github.com/newrelic/release-toolkit/src/git"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog/sources/renovate"
+	"github.com/gsanchezgavier/release-toolkit/src/git"
 	"github.com/stretchr/testify/assert"
 )
 

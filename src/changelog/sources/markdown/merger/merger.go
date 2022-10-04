@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/Masterminds/semver"
-	"github.com/newrelic/release-toolkit/src/changelog"
-	"github.com/newrelic/release-toolkit/src/changelog/renderer"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog/renderer"
 	log "github.com/sirupsen/logrus"
 )
 

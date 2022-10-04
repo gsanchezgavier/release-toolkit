@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/Masterminds/semver"
-	"github.com/newrelic/release-toolkit/src/changelog"
-	"github.com/newrelic/release-toolkit/src/git"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/git"
 	log "github.com/sirupsen/logrus"
 )
 

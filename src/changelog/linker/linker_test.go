@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/Masterminds/semver"
-	"github.com/newrelic/release-toolkit/src/changelog"
-	"github.com/newrelic/release-toolkit/src/changelog/linker"
-	"github.com/newrelic/release-toolkit/src/changelog/linker/mapper"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog/linker"
+	"github.com/gsanchezgavier/release-toolkit/src/changelog/linker/mapper"
 )
 
 func TestLinker_Link(t *testing.T) {

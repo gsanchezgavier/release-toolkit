@@ -3,7 +3,7 @@ package common_test
 import (
 	"testing"
 
-	"github.com/newrelic/release-toolkit/src/app/common"
+	"github.com/gsanchezgavier/release-toolkit/src/app/common"
 )
 
 func TestEnvFor(t *testing.T) {
